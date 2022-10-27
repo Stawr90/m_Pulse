@@ -1,4 +1,4 @@
 # m_Pulse
 (M - layout) Layout Pulse. Adaptive layout for mobile devices
 
-<img src="Pulse.png" width="50%">
+<img src="Pulse.png">
